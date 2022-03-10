@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100;
+    background-image: url(slider.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.navbar{
+
+}
+.logo{
+    color: #FF5233;
+
+}
+.navbar{
+    border: 2px  solid palegreen;
+}
+.body{
+    border: 1px solid ; height: fit-content; float: left;
+}
+.body1{
+    border: 0px solid; height: fit-content; float: center;
+}
